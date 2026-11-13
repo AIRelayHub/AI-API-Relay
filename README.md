@@ -18,7 +18,7 @@
 | [To-Tokens](https://totokens.cc/register?aff=N5LLGFSWAUKG) | 图片, grok               |
 | [ByteCat](https://www.bytecatcode.org/sign-up?aff=K9zo)    | fable                  |
 | [OneDayAI](https://api.autocode.space/register?aff=kwUK)   | fable, 图片              |
-| [Packy](https://www.packyapi.ai/register?aff=97uC)         | 按量, 最低充值500刀           |
+| [Packy](https://www.packyapi.ai/register?aff=97uC)         | 可开票, 国内模型, 按量           |
 | [4Router](https://4router.net/register?aff=CBRi)           | 国内加速, 按量, 充值赠2r        |
 | [BEST AI](https://api.oaibest.com/sign-up?aff=dieD)        | 模型多, 审计日志              |
 | [RiceApis](https://riceapis.com/register?aff=HQPWQVBU2C2P) | grok, 按量/包月            |
