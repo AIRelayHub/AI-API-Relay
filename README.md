@@ -4,6 +4,7 @@
 
 | 名称                                                         | 备注                 |
 |------------------------------------------------------------|--------------------|
+| [MX-AI](https://mxzzz.xyz/sign-up?aff=yrmN) | 可开票, 审计日志, 图片/视频 |
 | [88api](https://88api.ai/sign-up?aff=fRzC)                 | 可开票, 审计日志, fable, 图片   |
 | [9527codes](https://9527.codes/register?aff=PoSP)          | 企业级, 可开票               |
 | [速蹬](https://sudeng.cc/register?aff=339DYUDNGJCR)          | fable, 图片              |
