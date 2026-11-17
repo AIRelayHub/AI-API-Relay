@@ -4,21 +4,22 @@
 
 | 名称                                                         | 备注                 |
 |------------------------------------------------------------|--------------------|
-| [SSSAICode](https://sssaiapi.com/register?ref=2TRXJ9)      | 国内加速, 按量/包月, 最低充值100刀  |
-| [88api](https://88api.ai/sign-up?aff=fRzC)                 | 可开票, 审计日志, fable, 图片   |
-| [Cubence](https://cubence.ai/signup?code=SCYZ044S)         | 可开票, 国内模型              |
-| [Packy](https://www.packyapi.ai/register?aff=97uC)         | 按量, 最低充值100刀           |
-| [OneDayAI](https://api.autocode.space/register?aff=kwUK)   | fable, 图片              |
-| [4Router](https://4router.net/register?aff=CBRi)           | 国内加速, 按量, 充值赠2r        |
-| [MX-AI](https://mxzzz.xyz/sign-up?aff=yrmN)                | 可开票, 审计日志, 图片/视频       |
-| [91Token](https://91token.com/sign-up?aff=8vvb)            | 可开票, 图片/视频, 审计日志, q群赠金 |
-| [9527codes](https://9527.codes/register?aff=PoSP)          | 企业级, 可开票               |
-| [CoreCode](https://corecode.live/sign-in?ref=404ms)        | 可开票, 视频, 审计日志          |
-| [Volt](https://voltapi.ai/register?aff=LWXMG2U95H5P)       | 绑tg送10$, 图片            |
-| [OmniaKey](https://omniakey.com/zh/register?aff=wBH26Nfz)  | 图片/视频/音频               |
-| [速蹬](https://sudeng.cc/register?aff=339DYUDNGJCR)          | fable, 图片              |
-| [钱多多](https://api2.aigcbest.top/sign-up?aff=QJsa)          | 模型多, 审计日志              |
-| [RiceApis](https://riceapis.com/register?aff=HQPWQVBU2C2P) | grok, 按量/包月            |
-| [BEST AI](https://api.oaibest.com/sign-up?aff=dieD)        | 模型多, 审计日志              |
-| [To-Tokens](https://totokens.cc/register?aff=N5LLGFSWAUKG) | 图片, grok               |
-| [ByteCat](https://www.bytecatcode.org/sign-up?aff=K9zo)    | fable                  |
+| [SSSAICode](https://404ms.com/sssaiapi)    | 可开票, 国内加速, 按量/包月, 最低充值100刀 |
+| [88api](https://404ms.com/88api)           | 可开票, 审计日志, fable, 图片       |
+| [Cubence](https://404ms.com/cubence)       | 可开票, 国内模型                  |
+| [Packy](https://404ms.com/packy)           | 可开票, 按量, 最低充值100刀          |
+| [A6api](https://404ms.com/a6api)           | 可开票, 国内加速, 模型多, 白名单, 速率限制  |
+| [OneDayAI](https://404ms.com/onedayai)     | 可开票, fable, 图片             |
+| [4Router](https://404ms.com/4router)       | 国内加速, 按量, 充值赠2r            |
+| [MX-AI](https://404ms.com/mx-ai)           | 可开票, 审计日志, 图片/视频           |
+| [91Token](https://404ms.com/91token)       | 可开票, 图片/视频, 审计日志, q群赠金     |
+| [吉吉API](https://404ms.com/jjapi)           | 可开票, fable, 图片, 白名单, 速率限制  |
+| [9527codes](https://404ms.com/9527codes)   | 企业级, 可开票                   |
+| [CoreCode](https://404ms.com/corecode<br>) | 可开票, 视频, 审计日志              |
+| [云桥](https://404ms.com/yunqiao)            | 可开票, 按量/包月                 |
+| [Volt](https://404ms.com/voltapi)          | 绑tg送10$, 图片                |
+| [OmniaKey](https://404ms.com/omniakey)     | 图片/视频/音频                   |
+| [速蹬](https://404ms.com/sudengcc)           | fable, 图片                  |
+| [RiceApis](https://404ms.com/riceapis)     | grok, 按量/包月                |
+| [To-Tokens](https://404ms.com/totokens)    | 图片, grok                   |
+| [ByteCat](https://404ms.com/bytecatcode)   | fable                      |
